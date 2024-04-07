@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1712314729 source:c:\users\ivkov_ka\desktop\km3\main.cpp
+	"km3.h"
+
+1712241369 c:\users\ivkov_ka\desktop\km3\km3.h
+	<iostream>
+	<windows.h>
+	<cstdint>
+
+1712524712 source:c:\users\konstantin\desktop\km3\main.cpp
+	"km3.h"
+
+1712524787 c:\users\konstantin\desktop\km3\km3.h
+	<iostream>
+	<windows.h>
+	<cstdint>
+
